@@ -12,7 +12,12 @@ All its advances will be published on my portfolio, press here to more: <a href=
 <a href="https://twitter.com/FelixM_Figueroa">
   <img align="left" alt="Felix Figueroa | Twitter" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/twitter-square-brands.svg"/>
 
-<br />
+<br/> 
+
+## 📘 Curriculum vitae:
+
+https://www.notion.so/Felix-Manuel-Figueroa-Araujo-1091070c48184e738386f8d2f194e036
+
 
 ## 👨‍💻 Learned programming languages:
 
@@ -49,5 +54,5 @@ All its advances will be published on my portfolio, press here to more: <a href=
 
 - Project Planning and Control with Notion.
 - IDE's VSCode, PyCharm, Anaconda, Colab.
-- Git & GiHub.
+- Git & GitHub.
 - Design in 3D with Solidworks.
