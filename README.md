@@ -1,58 +1,119 @@
 # About me
-Hi there, I'm Mechatronic Engineer with experience in technology projects management, specially in food industry field, I'm passionate about 3D design in SolidWorks.
-Recently I'm working in a new technological field and I'm developing new projects in the area of Data Science, Machine Learning & Artificial Intelligence. 
-All its advances will be published on my portfolio, press here to more: <a href="https://fmfigueroa.github.io/Portfolio/">https://fmfigueroa.github.io/Portfolio/</a>
+Hi there, I'm Mechatronic Engineer with experience in technology projects management, specially in Robotic, I'm passionate about Blockchain technology.
+Recently I'm working in a new technological field and I'm developing new projects in the area of Artificial Intelligence & Blockchain.
+<hr> 
+<h2>📢 Visit me:</h2>
+<a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
+<img align="left" alt="Felix Figueroa | Linkedin" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/linkedin-brands.svg"/></a>
+<br/>
+<br/>
+<a href="https://twitter.com/FelixM_Figueroa">Twitter
+<img align="left" alt="Felix Figueroa | Twitter" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/twitter-square-brands.svg"/></a>
+<br/>
+<hr/> 
 
-## 📢 Contact me:
+## 🔗 Knowledge in Blockchain Development:
+I have experience building Apps, smart contracts, token contracts, staking contracts and other blockchain based solutions including experience building interactive web3 applications and stack MEAN/MERN.
+  
+### 📃 Smart Contracts with Solidity.
+  
+### 👨‍💻 Other Lenguages Used Python & Rust .
 
-<a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">
-  <img align="left" alt="Felix Figueroa | Linkedin" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/linkedin-brands.svg"/>
-</a>
+### 🛠 Tools & Testing
+- Remix-Etherum IDE
+- Truffle
+- Ganache
+- Metamask
+  
+<hr/>
+  
+## 👨‍💻 Background as Developer:
+### Frontend:
+    - HTML
+    - CSS
+    - JavaScript
 
-<a href="https://twitter.com/FelixM_Figueroa">
-  <img align="left" alt="Felix Figueroa | Twitter" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/twitter-square-brands.svg"/>
+### 💪 Framework & Library:
+    - React js
+    - Angular
+    - Vue.js
+    - Bootstrap / Material-UI
 
-<br/> 
-
-## 📘 Curriculum vitae:
-
-https://www.notion.so/Felix-Manuel-Figueroa-Araujo-1091070c48184e738386f8d2f194e036
-
-
-## 👨‍💻 Learned programming languages:
-
-- Git
-- HTML
-- CSS
-- JavaScript
-- Python
-  - Numpy
-  - Matploplib
-  - Pandas
-  - Scipy
-  - Tensorflow
-  - Keras
-  - Pytorch
-- Java
-- C++
-
+### 👁‍🗨 Design UI/UX
+    - Xd Adobe
+    - Figma
+  
+### 🌎 Web Server
+    - Nginx 
+    - Gunicorn
+  
+###  🧠 Backend
+    - Node.js & Typescript
+    - Django & Django REST Framework
+  
+###  🛠 Tools-Utilities for API & web application 
+    - Postman
+    - JSON Wen Tokens
+    - RabbitMQ
+    - Celery
+ 
+### 🛢 Database more used
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - Redis (cache, message broker and queue)
+  
+### 🚀 Deployment
+    - Heroku
+    - AWS
+    - Docker
+    - Docker Compose
+    - Kubernetes
+    
+### 👨‍💻 Knowledges Solid:
+    - API's Design
+    - Unit Tests
+    - PWA (Progressive Web Application)
+    - Microservices witn Docker
+     
+### 🐍Python:
+#### Library for Data Science & Machine Learning:
+    - Numpy
+    - Matploplib
+    - Pandas
+    - Scipy
+    - Tensorflow
+    - Keras
+    - Pytorch
+  
+ ### 👨‍💻 Other Languages Programming
+    - Java
+    - C
+    - C++
+    - C#
+  
 ## 📌 Soft Skills:
 
 - Project management.
 - Team Leadership.
 - Scrum methodology.
 - Leadership and effective team communication.
+- Experience with Remote Job.
 
 ## 📚 Areas of Study and Interest:
-
+- Blockchain.
 - Data Science.
 - Machine Learning.
 - Deep Learning.
 - Artificial Intelligence.
 
 ## 💎 Utilities and Productivity Tools:
-
 - Project Planning and Control with Notion.
 - IDE's VSCode, PyCharm, Anaconda, Colab.
-- Git & GitHub.
+- Version Control with Git & GitHub.
 - Design in 3D with Solidworks.
+
+## 📘 Curriculum Vitae in Notion:
+  https://www.notion.so/Felix-Manuel-Figueroa-Araujo-1091070c48184e738386f8d2f194e036
+</br>
+This my firts portfolio, press here to more: <a href="https://fmfigueroa.github.io/Portfolio/">https://fmfigueroa.github.io/Portfolio/</a>
