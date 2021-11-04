@@ -35,9 +35,10 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 
 ### 💪 Framework & Library:
     - React js
+    - React Native
     - Angular
     - Vue.js
-    - Bootstrap / Material-UI
+    - Sass/ Bootstrap / Material-UI / Tailwind
 
 ### 👁‍🗨 Design UI/UX
     - Xd Adobe
@@ -62,6 +63,7 @@ I have experience building Apps, smart contracts, token contracts, staking contr
     - PostgreSQL
     - MongoDB
     - Redis (cache, message broker and queue)
+    - Firebase
   
 ### 🚀 Deployment
     - Heroku
@@ -101,6 +103,7 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 - Experience with Remote Job.
 
 ## 📚 Areas of Study and Interest:
+- Full Stack Web Developer.
 - Blockchain.
 - Data Science.
 - Machine Learning.
