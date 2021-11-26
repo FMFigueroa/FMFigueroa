@@ -1,5 +1,5 @@
 # About me
-Hi there, I'm Electronic Engineer with experience in Project Managment, I'm trying to make a career switch as Software Development. I've been training for a year as Full Stack Developer, I've been developed projects  such as Webstites, Apps, ML&AI Systems, Blockchain Systems..
+Hi there, I'm an Electronic Engineer with experience in project managment, I'm trying to make a career switch towards software development. I have been working on a wide variety of projects, ranging from websites to blockchain systems.I hope you enjoy all my content and can help you with new ideas, design without limits ..!
 <hr> 
 <h2>📢 Visit me:</h2>
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
