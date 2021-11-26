@@ -1,6 +1,5 @@
 # About me
-Hi there, I'm Mechatronic Engineer with experience in technology projects management, specially in Robotic, I'm passionate about Blockchain technology.
-Recently I'm working in a new technological field and I'm developing new projects in the area of Artificial Intelligence & Blockchain.
+Hi there, I'm Electronic Engineer with experience in Project Managment, I'm trying to make a career switch as Software Development. I've been training for a year as Full Stack Developer, I've been developed projects  such as Webstites, Apps, ML&AI Systems, Blockchain Systems..
 <hr> 
 <h2>📢 Visit me:</h2>
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
