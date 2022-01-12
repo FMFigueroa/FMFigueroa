@@ -80,9 +80,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     
 <hr/>
 
-## 🔗 Knowledge in Blockchain Development:
-
-<hr/>
+### 🔗 Knowledge in Blockchain Development:
 
 I have experience building Apps, smart contracts, token contracts, staking contracts and other blockchain based solutions including experience building interactive web3 applications and stack MEAN/MERN.
     
