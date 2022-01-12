@@ -1,7 +1,9 @@
 # About me
 Hi there, I'm an Electronic Engineer with experience in project managment, I'm trying to make a career switch towards software development. I have been working on a wide variety of projects, ranging from websites to blockchain systems. <br/>I hope you enjoy all my content and can help you with new ideas, design without limits ..!
 <hr> 
-<h2>📢 Visit me:</h2>  <a href="https://fmfigueroa.github.io/Portfolio/">Portafolio/</a>
+<h2>📢 Visit me:</h2> 
+<a href="https://fmfigueroa.github.io/Portfolio/">Portafolio/</a>
+<br/>
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
 <img align="left" alt="Felix Figueroa | Linkedin" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/linkedin-brands.svg"/></a>
 <br/>
@@ -93,8 +95,6 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 - Metamask
   
 <br/>
-
-<hr/>
   
 ## 📌 Soft Skills:
 
