@@ -1,7 +1,7 @@
 # About me
 Hi there, I'm an Electronic Engineer with experience in project managment, I'm trying to make a career switch towards software development. I have been working on a wide variety of projects, ranging from websites to blockchain systems. <br/>I hope you enjoy all my content and can help you with new ideas, design without limits ..!
 <hr> 
-<h2>📢 Visit me:</h2>
+<h2>📢 Visit me:</h2>  <a href="https://fmfigueroa.github.io/Portfolio/">Portafolio/</a>
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
 <img align="left" alt="Felix Figueroa | Linkedin" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/linkedin-brands.svg"/></a>
 <br/>
@@ -10,22 +10,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
 <img align="left" alt="Felix Figueroa | Twitter" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/twitter-square-brands.svg"/></a>
 <br/>
 <hr/> 
-
-## 🔗 Knowledge in Blockchain Development:
-I have experience building Apps, smart contracts, token contracts, staking contracts and other blockchain based solutions including experience building interactive web3 applications and stack MEAN/MERN.
-  
-### 📃 Smart Contracts with Solidity.
-  
-### 👨‍💻 Other Lenguages Used Python & Rust .
-
-### 🛠 Tools & Testing
-- Remix-Etherum IDE
-- Truffle
-- Ganache
-- Metamask
-  
-<hr/>
-  
+   
 ## 👨‍💻 Background as Developer:
 ### Frontend:
     - HTML
@@ -36,12 +21,11 @@ I have experience building Apps, smart contracts, token contracts, staking contr
     - React js
     - React Native
     - Angular
-    - Vue.js
+    - Next.js
     - Sass/ Bootstrap / Material-UI / Tailwind
 
 ### 👁‍🗨 Design UI/UX
     - Xd Adobe
-    - Figma
   
 ### 🌎 Web Server
     - Nginx 
@@ -92,6 +76,25 @@ I have experience building Apps, smart contracts, token contracts, staking contr
     - C
     - C++
     - C#
+    
+<hr/>
+
+## 🔗 Knowledge in Blockchain Development:
+I have experience building Apps, smart contracts, token contracts, staking contracts and other blockchain based solutions including experience building interactive web3 applications and stack MEAN/MERN.
+    
+### 📃 Smart Contracts with Solidity.
+  
+### 👨‍💻 Other Lenguages Used Python & Rust .
+
+### 🛠 Tools & Testing
+- Remix-Etherum IDE
+- Truffle
+- Ganache
+- Metamask
+  
+<br/>
+
+<hr/>
   
 ## 📌 Soft Skills:
 
@@ -117,5 +120,4 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 
 ## 📘 Curriculum Vitae in Notion:
   https://www.notion.so/Felix-Manuel-Figueroa-Araujo-1091070c48184e738386f8d2f194e036
-</br>
-This my firts portfolio, press here to more: <a href="https://fmfigueroa.github.io/Portfolio/">https://fmfigueroa.github.io/Portfolio/</a>
+
