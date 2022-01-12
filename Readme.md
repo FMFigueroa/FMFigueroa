@@ -81,6 +81,9 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
 <hr/>
 
 ## 🔗 Knowledge in Blockchain Development:
+
+<hr/>
+
 I have experience building Apps, smart contracts, token contracts, staking contracts and other blockchain based solutions including experience building interactive web3 applications and stack MEAN/MERN.
     
 ### 📃 Smart Contracts with Solidity.
@@ -92,6 +95,8 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 - Truffle
 - Ganache
 - Metamask
+
+<hr/>
 
 ## 📌 Soft Skills:
 
