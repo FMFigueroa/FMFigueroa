@@ -17,6 +17,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - HTML
     - CSS
     - JavaScript
+    - Typescript
 
 ### 💪 Framework & Library:
     - React.js
@@ -33,13 +34,13 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Gunicorn
   
 ###  🧠 Backend
-    - Next.js with Redux
-    - Node.js & Typescript
+    - Next.js & Redux
+    - Node.js & Express
     - Django & Django REST Framework
   
 ###  🛠 Tools-Utilities for API & web application 
     - Postman
-    - JSON Wen Tokens
+    - Redux-devtools-extensions
     - RabbitMQ
     - Celery
  
