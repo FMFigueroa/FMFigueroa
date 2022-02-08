@@ -19,11 +19,11 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - JavaScript
 
 ### 💪 Framework & Library:
-    - React js
+    - React.js
     - React Native
-    - Angular
     - Next.js
-    - Sass/ Bootstrap / Material-UI / Tailwind
+    - Redux
+    - Bootstrap / Tailwind
 
 ### 👁‍🗨 Design UI/UX
     - Xd Adobe
@@ -51,7 +51,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Firebase
   
 ### 🚀 Deployment
-    - Verecel
+    - Vercel
     - Firebase
     - Heroku
     - AWS
@@ -60,7 +60,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Kubernetes
     
 ### 👨‍💻 Knowledges Solid:
-    - Redux 
+    - Global State Management with Redux
     - API's Design
     - Unit Tests
     - PWA (Progressive Web Application)
