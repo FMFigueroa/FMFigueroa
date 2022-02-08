@@ -33,6 +33,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Gunicorn
   
 ###  🧠 Backend
+    - Next.js with Redux
     - Node.js & Typescript
     - Django & Django REST Framework
   
@@ -45,11 +46,13 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
 ### 🛢 Database more used
     - MySQL
     - PostgreSQL
-    - MongoDB
+    - Mongodb
     - Redis (cache, message broker and queue)
     - Firebase
   
 ### 🚀 Deployment
+    - Verecel
+    - Firebase
     - Heroku
     - AWS
     - Docker
@@ -57,10 +60,12 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Kubernetes
     
 ### 👨‍💻 Knowledges Solid:
+    - Redux 
     - API's Design
     - Unit Tests
     - PWA (Progressive Web Application)
-    - Microservices witn Docker
+    - Microservices
+    - Kubernetes
      
 ### 🐍Python:
 #### Library for Data Science & Machine Learning:
@@ -77,6 +82,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - C
     - C++
     - C#
+    - Rust (beginner)
     
 <hr/>
 
@@ -86,7 +92,7 @@ I have experience building Apps, smart contracts, token contracts, staking contr
     
 ### 📃 Smart Contracts with Solidity.
   
-### 👨‍💻 Other Lenguages Used Python & Rust .
+### 👨‍💻 Other Lenguages Used Python & Rust for Solana ecosystem.
 
 ### 🛠 Tools & Testing
 - Remix-Etherum IDE
