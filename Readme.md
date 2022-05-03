@@ -1,23 +1,30 @@
-# About me
-Hi there, I'm an Electronic Engineer with experience in project managment, I'm trying to make a career switch towards software development. I have been working on a wide variety of projects, ranging from websites to blockchain systems. <br/>I hope you enjoy all my content and can help you with new ideas, design without limits ..!
+# About me:
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)<br/>
+I'm an Electronic Engineer with experience in technological projects. Passionate developer of Rust 🦀. I have been working on a wide variety of projects, ranging from websites to blockchain systems.I hope you enjoy all my content and can help you with new ideas.<br/>design without limits..!
 <hr> 
-<h2>📢 Visit me: <a style={{color:"gray"}} href="https://fmfigueroa.github.io/Portfolio/">Portafolio</a></h2> 
+<h3>Contact me:</h3>
 
-<a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/">Linkedin
-<img align="left" alt="Felix Figueroa | Linkedin" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/linkedin-brands.svg"/></a>
-<br/>
-<br/>
-<a href="https://twitter.com/FelixM_Figueroa">Twitter
-<img align="left" alt="Felix Figueroa | Twitter" width="30px" src="https://raw.githubusercontent.com/FMFigueroa/FMFigueroa/master/assets/img/twitter-square-brands.svg"/></a>
-<br/>
+<a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/"><img alt="Linkedin" width="45px" src="https://img.icons8.com/stickers/45/000000/linkedin.png"/></a>
+<a href="https://twitter.com/FelixM_Figueroa"><img alt="Twitter" width="45px" src="https://img.icons8.com/stickers/45/000000/twitter.png"/></a>
+<img alt="Discord" width="45px" src="https://img.icons8.com/stickers/100/000000/discord.png"/>
+<a href="https://www.youtube.com/channel/UCl51r-34GpQtP6WpqAR844Q"><img alt="Youtube" width="45px" src="https://img.icons8.com/stickers/45/000000/youtube-play.png"/></a>
+
 <hr/> 
-   
-## 👨‍💻 Background as Developer:
-### Frontend:
+<h3>📢 Portfolio: <a style={{color:"#3385ff"}} href="https://fmfigueroa.github.io/Portfolio/">Visitme</a></h3>
+<h3>🚀 Demo: <a style={{color:"#3385ff"}} href="https://superheroes-felixfigueroa.vercel.app">SuperHeros</a></h3>
+
+<hr/> 
+
+### ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=👨‍💻+FullStack+Developer:;)
     - HTML
     - CSS
     - JavaScript
-    - Typescript
+    - React
+    - Next.js
+    - Node.js & Express
+    - Django & Django REST Framework
+    - Redux
+    - TypeScript
 
 ### 💪 Framework & Library:
     - React.js
@@ -33,13 +40,8 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Nginx 
     - Gunicorn
   
-###  🧠 Backend
-    - Next.js & Redux
-    - Node.js & Express
-    - Django & Django REST Framework
-  
 ###  🛠 Tools-Utilities for API & web application 
-    - Postman
+    - Postman or hoppscotch
     - Redux-devtools-extensions
     - RabbitMQ
     - Celery
@@ -57,16 +59,17 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - Heroku
     - AWS
     - Docker
-    - Docker Compose
     - Kubernetes
+    - Prometheus
+    - Grafana
     
 ### 👨‍💻 Knowledges Solid:
     - Global State Management with Redux
     - API's Design
     - Unit Tests
     - PWA (Progressive Web Application)
-    - Microservices
-    - Kubernetes
+    - Microservices | Devops
+    - Infrastructure Monitoring
      
 ### 🐍Python:
 #### Library for Data Science & Machine Learning:
@@ -83,7 +86,7 @@ Hi there, I'm an Electronic Engineer with experience in project managment, I'm t
     - C
     - C++
     - C#
-    - Rust (beginner)
+    - Rust
     
 <hr/>
 
@@ -120,7 +123,8 @@ I have experience building Apps, smart contracts, token contracts, staking contr
 - Artificial Intelligence.
 
 ## 💎 Utilities and Productivity Tools:
-- Project Planning and Control with Notion.
+- Agile methodologies with ClickUp.
+- Project Documentation with Notion.
 - IDE's VSCode, PyCharm, Anaconda, Colab.
 - Version Control with Git & GitHub.
 - Design in 3D with Solidworks.
