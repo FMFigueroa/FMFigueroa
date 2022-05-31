@@ -1,6 +1,6 @@
 # About me:
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)<br/>
-I'm Electronic Engineer specialized in the field of Technology and the Industrial Automation, Embedded Systems with C, C++,Rust, PCB Design, PLC Programming, Design 3D CAD & CAE with Solidworks ,Web Development & Mobile FullStack, Software Architecture & Microservices, Web3, AI, Product Design focused on the internet of things..I hope you enjoy all my content and can help you with new ideas.<br/>design without limits..!
+I'm Electronic Engineer specialized in the field of Technology and the Industrial Automation, Embedded Systems with C, C++, Rust, PCB Design, PLC Programming, Design CAD & CAE with Solidworks ,Web Development & Mobile FullStack, Software Architecture & Microservices, Web3, AI, Product Design focused on the internet of things..I hope you enjoy all my content and can help you with new ideas.<br/>design without limits..!
 
 <hr> 
 <h3>Contact me:</h3>
