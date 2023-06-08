@@ -1,6 +1,8 @@
 # About me:
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)<br/>
-I'm dedicated to the development of systems with the Rust programming language.<br/>
+
+    - Software Development C | C++ | Rust.
+    - Development of Projects.
 
 <hr> 
 <h3>Contact me:</h3>
@@ -11,12 +13,3 @@ I'm dedicated to the development of systems with the Rust programming language.<
 <a href="https://www.youtube.com/channel/UCl51r-34GpQtP6WpqAR844Q"><img alt="Youtube" width="45px" src="https://img.icons8.com/stickers/45/000000/youtube-play.png"/></a>
 
 <hr/> 
-
-### ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Background+as+Engineer:;)
-
-    - Software Development C | C++ | Rust.
-    - Development of Projects with Solidworks.
-    
-<hr/> 
-
-#### [Portfolio](https://fmfigueroa.github.io/Portfolio/)
