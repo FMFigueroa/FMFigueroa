@@ -19,7 +19,4 @@ I'm dedicated to the development of systems with the Rust programming language.<
     
 <hr/> 
 
-### Demos:
-
 <h3>📢 Portfolio: <a style={{color:"#3385ff"}} href="https://fmfigueroa.github.io/Portfolio/">View</a></h3>
-<h3>🚀 SuperHeros: <a style={{color:"#3385ff"}} href="https://superheroes-felixfigueroa.vercel.app">View</a></h3>
