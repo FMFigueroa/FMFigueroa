@@ -1,8 +1,11 @@
 # About me:
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
-
-    - Software Development C | C++ | Rust.
-    - Development of Projects.
+        
+    ╔═══════════════════════════════════════════════════════════╗
+    ║**********/// Research and Development Fields \\\**********║   
+    ║═══════════════════════════════════════════════════════════║
+    ║ Rust Web ║ Rust Systems ║ Rust Embedded ║ Rust Blockchain ║
+    ╚═══════════════════════════════════════════════════════════╝
 
 
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/"><img alt="Linkedin" width="45px" src="https://img.icons8.com/stickers/45/000000/linkedin.png"/></a>
