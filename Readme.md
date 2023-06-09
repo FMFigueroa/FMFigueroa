@@ -1,9 +1,7 @@
 # About me:
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
         
-    ╔═══════════════════════════════════════════════════════════╗
-    ║////////////  Software Development with Rust  \\\\\\\\\\\\\║   
-    ║═══════════════════════════════════════════════════════════║
+    ╔═══════════════════════════════════════════════════════════╗ 
     ║ Rust Web ║ Rust Systems ║ Rust Embedded ║ Rust Blockchain ║
     ╚═══════════════════════════════════════════════════════════╝
 
