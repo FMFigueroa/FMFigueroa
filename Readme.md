@@ -1,6 +1,6 @@
-# ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hey+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
+# ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hey+🚀+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
       
-    // Finally, after having known some interesting languages,
+    // Finally, after having known some interesting languages...
     // I can say that Rust is the only language I want to program with.
     
        Software::Developer(|🦀| &Lang.Rust(🦀));
