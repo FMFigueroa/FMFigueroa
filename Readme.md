@@ -2,6 +2,7 @@
       
     // Finally, after having known some interesting languages,
     // I can say that Rust is the only language I want to program with.
+    
        Software::Developer(|🦀| &Lang.Rust(🦀));
     
 <p align="center">
