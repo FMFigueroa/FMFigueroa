@@ -1,8 +1,7 @@
-# ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hello+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
+# ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hey+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
       
-    ╔═══════════════════════════════════════════════════════════╗ 
-    ║ Rust Web ║ Rust Systems ║ Rust Embedded ║ Rust Blockchain ║
-    ╚═══════════════════════════════════════════════════════════╝
+    "Finally, after having known some interesting languages, I can say that Rust is the only language I want to program with."
+    
 <p align="center">
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa-3b91551b/"><img alt="Linkedin" width="45px" src="https://img.icons8.com/stickers/45/000000/linkedin.png"/></a>
 <a href="https://twitter.com/FelixM_Figueroa"><img alt="Twitter" width="45px" src="https://img.icons8.com/stickers/45/000000/twitter.png"/></a>
