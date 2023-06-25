@@ -1,6 +1,6 @@
 # ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hi+there+I'm+Felix+Figueroa;Welcome+to+my+Github+profile.!;)
 
-<p align="center">Finally, after having known some interesting languages...I can say that Rust is the only language I want to program with.</p>
+<p align="justify">"Finally, after having known some interesting languages...I can say that Rust is the only language I want to program with."</p>
     
        use std::Lang::Rust;
        let software_developer = skill.map(|🦀| Rust(🦀)+🚀).collect();
