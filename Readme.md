@@ -3,7 +3,7 @@
     // Finally, after having known some interesting languages...
     // I can say that Rust is the only language I want to program with.
        use std::Lang::Rust;
-       let software_developer = skill.map(|🦀| Rust::new(🦀)).collect();
+       let software_developer = skill.map(|🦀| Rust(🦀)+🚀).collect();
     
 <p align="center">
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa/"><img alt="Linkedin" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;      
