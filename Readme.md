@@ -4,8 +4,8 @@
     
 <p align="center">
 <a href="https://www.linkedin.com/in/felix-manuel-figueroa/"><img alt="Linkedin" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;      
-<a href="https://twitter.com/FelixM_Figueroa"><img alt="Twitter" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
-<img alt="Discord" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-discord-social-media-justicon-lineal-color-justicon.png"/>
+<a href="https://twitter.com/FelixM_Figueroa"><img alt="Twitter" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;
+<img alt="Discord" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-discord-social-media-justicon-lineal-color-justicon.png"/>&ensp;
 <a href="https://www.youtube.com/@FelixFigueroa/featured"><img alt="Youtube" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 </p>
 <hr/> 
