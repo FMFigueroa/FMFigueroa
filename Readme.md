@@ -1,17 +1,20 @@
-<div align="center">
-
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F77208&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Electronic+Engineer+%7C+Rust+Developer;Embedded+Systems+%7C+IoT+%7C+Backend)
 
-**Building reliable systems with Rust — from bare metal to the cloud**
+<p align="justify">"Finally, after having known some interesting languages... I can say that Rust is the only language I want to program with."</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-manuel-figueroa/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FelixM_Figueroa)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dYrqe9HZfz)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FelixFigueroa/featured)
+```rust
+use std::Lang::Rust;
+let software_developer = skill.map(|🦀| Rust(🦀)+🚀).collect();
+```
 
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/felix-manuel-figueroa/"><img alt="Linkedin" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;
+<a href="https://twitter.com/FelixM_Figueroa"><img alt="Twitter" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;
+<a href="https://discord.gg/dYrqe9HZfz"><img alt="Discord" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>&ensp;
+<a href="https://www.youtube.com/@FelixFigueroa/featured"><img alt="Youtube" width="35px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
+</p>
 
----
+<hr/>
 
 ## About Me
 
@@ -90,23 +93,11 @@ My production-grade projects and AI tooling live under **leonobitech**:
 
 | Project | Description |
 |---------|-------------|
-| [**fullstack-mcp-playground**](https://github.com/leonobitech/fullstack-mcp-playground) | MCP Playground — Fullstack AI agent template. Claude + microservices, modular tools from UI gallery |
 | [**remote-connector-claude**](https://github.com/leonobitech/remote-connector-claude) | Remote MCP Connector for Claude Desktop |
-| [**fullstack-backend-core**](https://github.com/leonobitech/fullstack-backend-core) | Hexagonal API — Node + TS / ESM modules, tsx dev, pkgroll build |
+| [**fullstack-mcp-playground**](https://github.com/leonobitech/fullstack-mcp-playground) | MCP Playground — Fullstack AI agent template. Claude + microservices, modular tools from UI gallery |
 | [**fullstack-frontend-core**](https://github.com/leonobitech/fullstack-frontend-core) | Full-Stack con Next.js 15 + TS (ESM) + Docker + Traefik |
+| [**fullstack-backend-core**](https://github.com/leonobitech/fullstack-backend-core) | Hexagonal API — Node + TS / ESM modules, tsx dev, pkgroll build |
 | [**fullstack-infrastructure-blueprint**](https://github.com/leonobitech/fullstack-infrastructure-blueprint) | Infrastructure blueprint — Docker + Traefik + HTTPS grid |
 
 > **[@leonobitech](https://github.com/leonobitech)** — Production systems, AI agents & infrastructure
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FMFigueroa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMFigueroa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FMFigueroa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="165"/>
-
-</div>
