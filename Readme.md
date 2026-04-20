@@ -212,7 +212,7 @@ My biggest recent bet: launching **[Leonobitech](https://www.leonobitech.com/)**
 
 | Project | Description |
 |---------|-------------|
-| [**paso-01-scaffold**](https://github.com/FMFigueroa/paso-01-scaffold) | Curso practico de Rust embedded con ESP32-C3 — desde LED blink hasta concurrencia y watchdog management (9 pasos) |
+| [**paso-01-scaffold**](https://github.com/FMFigueroa/paso-01-scaffold) | Hands-on Rust embedded course with ESP32-C3 — from LED blink to concurrency and watchdog management (9 steps) |
 | [**embedded-learning**](https://github.com/FMFigueroa/embedded-learning) | ESP32 embedded systems learning repository — Rust & C |
 | [**esp32-essential-training**](https://github.com/FMFigueroa/esp32-essential-training) | ESP32 con ESP-IDF en C — foundation para embedded systems |
 
@@ -220,18 +220,18 @@ My biggest recent bet: launching **[Leonobitech](https://www.leonobitech.com/)**
 
 | Project | Description |
 |---------|-------------|
-| [**actor-model-system-in-tokio**](https://github.com/FMFigueroa/actor-model-system-in-tokio) | Actor model para tracking de ordenes con budget threshold — concurrencia con Tokio |
-| [**asset-upload-in-Cloudinary**](https://github.com/FMFigueroa/asset-upload-in-Cloudinary) | Sistema asincronico de upload de assets a Cloudinary en Rust |
-| [**axum-cookbook**](https://github.com/FMFigueroa/axum-cookbook) | Recetas con Tokio, Hyper, Serde y Tower |
-| [**grpc-tonic**](https://github.com/FMFigueroa/grpc-tonic) | Servicio gRPC con Tonic e instrumentacion con Autometrics |
+| [**actor-model-system-in-tokio**](https://github.com/FMFigueroa/actor-model-system-in-tokio) | Actor model for order tracking with budget thresholds — concurrency with Tokio |
+| [**asset-upload-in-Cloudinary**](https://github.com/FMFigueroa/asset-upload-in-Cloudinary) | Asynchronous asset upload system to Cloudinary, built in Rust |
+| [**axum-cookbook**](https://github.com/FMFigueroa/axum-cookbook) | Recipes with Tokio, Hyper, Serde, and Tower |
+| [**grpc-tonic**](https://github.com/FMFigueroa/grpc-tonic) | gRPC service with Tonic and instrumentation via Autometrics |
 
-### Rust Educativo
+### Rust Learning / Fundamentals
 
 | Project | Description |
 |---------|-------------|
-| [**functional-programming-in-rust**](https://github.com/FMFigueroa/functional-programming-in-rust) | Tutoriales de fundamentos y aplicaciones avanzadas de programacion funcional en Rust |
-| [**sha256-cracker**](https://github.com/FMFigueroa/sha256-cracker) | CLI sha256 cracker — ejercicio de Rust systems programming |
-| [**dining-philosophers**](https://github.com/FMFigueroa/dining-philosophers) | Clasico problema de concurrencia implementado en Rust |
+| [**functional-programming-in-rust**](https://github.com/FMFigueroa/functional-programming-in-rust) | Tutorials on fundamentals and advanced applications of functional programming in Rust |
+| [**sha256-cracker**](https://github.com/FMFigueroa/sha256-cracker) | CLI sha256 cracker — Rust systems programming exercise |
+| [**dining-philosophers**](https://github.com/FMFigueroa/dining-philosophers) | Classic concurrency problem implemented in Rust |
 
 ### Full Stack
 
