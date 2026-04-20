@@ -214,7 +214,7 @@ My biggest recent bet: launching **[Leonobitech](https://www.leonobitech.com/)**
 |---------|-------------|
 | [**paso-01-scaffold**](https://github.com/FMFigueroa/paso-01-scaffold) | Hands-on Rust embedded course with ESP32-C3 — from LED blink to concurrency and watchdog management (9 steps) |
 | [**embedded-learning**](https://github.com/FMFigueroa/embedded-learning) | ESP32 embedded systems learning repository — Rust & C |
-| [**esp32-essential-training**](https://github.com/FMFigueroa/esp32-essential-training) | ESP32 con ESP-IDF en C — foundation para embedded systems |
+| [**esp32-essential-training**](https://github.com/FMFigueroa/esp32-essential-training) | ESP32 with ESP-IDF in C — foundation for embedded systems |
 
 ### Rust Backend & Systems
 
@@ -237,5 +237,5 @@ My biggest recent bet: launching **[Leonobitech](https://www.leonobitech.com/)**
 
 | Project | Description |
 |---------|-------------|
-| [**blog_post_rust**](https://github.com/FMFigueroa/blog_post_rust) | Full-Stack web application con Rust y Leptos |
-| [**superheroes**](https://github.com/FMFigueroa/superheroes) | Sistema de autenticacion y control de acceso con Redux — Next.js |
+| [**blog_post_rust**](https://github.com/FMFigueroa/blog_post_rust) | Full-Stack web application with Rust and Leptos |
+| [**superheroes**](https://github.com/FMFigueroa/superheroes) | Authentication and access-control system with Redux — Next.js |
