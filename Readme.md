@@ -1,4 +1,4 @@
-# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F77208&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Electronic+Engineer+%7C+Rust+Developer;Embedded+Systems+%7C+IoT+%7C+Backend)
+# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F77208&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%7C+AI+%2B+LLM+Systems;Multi-Agent+Orchestration+%7C+MCP+Architect;Rust+%7C+TypeScript+%7C+Python+%7C+Embedded)
 
 <p align="justify">"Finally, after having known some interesting languages... I can say that Rust is the only language I want to program with."</p>
 
@@ -25,6 +25,15 @@ let software_developer = skill.map(|🦀| Rust(🦀)+🚀).collect();
 <img alt="Experience" src="https://img.shields.io/badge/1%2B_year_shipping-green?style=for-the-badge"/>
 </p>
 
+<p align="center">
+<strong>📊 Shipping in real-time →&nbsp;</strong>
+<a href="https://github.com/leonobitech/backend"><img alt="backend" src="https://img.shields.io/github/last-commit/leonobitech/backend?label=backend&style=flat-square&color=F77208"/></a>&ensp;
+<a href="https://github.com/leonobitech/frontend"><img alt="frontend" src="https://img.shields.io/github/last-commit/leonobitech/frontend?label=frontend&style=flat-square&color=F77208"/></a>&ensp;
+<a href="https://github.com/leonobitech/agents"><img alt="agents" src="https://img.shields.io/github/last-commit/leonobitech/agents?label=agents&style=flat-square&color=F77208"/></a>&ensp;
+<a href="https://github.com/leonobitech/hardware"><img alt="hardware" src="https://img.shields.io/github/last-commit/leonobitech/hardware?label=hardware&style=flat-square&color=F77208"/></a>&ensp;
+<a href="https://github.com/leonobitech/mcp-infrastructure"><img alt="mcp-infra" src="https://img.shields.io/github/last-commit/leonobitech/mcp-infrastructure?label=mcp-infra&style=flat-square&color=F77208"/></a>
+</p>
+
 > ### 👀 Want to see all this experience in action?
 >
 > Everything below runs **live in production** on my own VPS under **[@leonobitech](https://github.com/leonobitech)** — my startup, where I ship **production AI automation for SMB clients in LATAM**.
@@ -46,6 +55,45 @@ let software_developer = skill.map(|🦀| Rust(🦀)+🚀).collect();
 | ⚙️ [**backend**](https://github.com/leonobitech/backend) | Node · TypeScript · Hexagonal | Core API |
 | 🔌 [**hardware**](https://github.com/leonobitech/hardware) | Rust · ESP32-C3 · ESP-IDF | IoT firmware with Secure Boot |
 | 🎙️ [**agents**](https://github.com/leonobitech/agents) | Python · Realtime | Voice AI agents framework |
+
+#### 💎 Inside [`backend/repositories/`](https://github.com/leonobitech/backend/tree/main/repositories) — The real microservices stack
+
+The `backend` repo is a **mono-repo with 15 production microservices**. This is where the real engineering lives:
+
+**🎙️ Voice AI stack**
+
+| Service | Stack | Role |
+|---------|-------|------|
+| 🎙️ [**voice-agent**](https://github.com/leonobitech/backend/tree/main/repositories/voice-agent) | Python · LiveKit | Realtime voice AI agent (LiveKit agents fork) |
+| 🎭 [**voice-agent-3D**](https://github.com/leonobitech/backend/tree/main/repositories/voice-agent-3D) | Python · LemonSlice | Voice agent with 3D avatar support |
+| 🔬 [**voice-spike**](https://github.com/leonobitech/backend/tree/main/repositories/voice-spike) | Python · Piper TTS | WebRTC voice spike (migrated from XTTS v2 → Piper TTS) |
+| 📹 [**livekit**](https://github.com/leonobitech/backend/tree/main/repositories/livekit) | Docker | Production-hardened LiveKit setup |
+| 🗣️ [**piper-tts**](https://github.com/leonobitech/backend/tree/main/repositories/piper-tts) | Python | Text-to-speech microservice |
+
+**🦀 Core services**
+
+| Service | Stack | Role |
+|---------|-------|------|
+| 🦀 [**core-v2**](https://github.com/leonobitech/backend/tree/main/repositories/core-v2) | Rust | Complete Rust microservice foundation (+ blog series) |
+| ⚙️ [**core**](https://github.com/leonobitech/backend/tree/main/repositories/core) | Docker · Traefik | Infrastructure & auth core |
+| 🧠 [**Qdrant**](https://github.com/leonobitech/backend/tree/main/repositories/Qdrant) | Docker | Vector database for RAG pipelines |
+
+**🤖 AI & business integrations**
+
+| Service | Stack | Role |
+|---------|-------|------|
+| 📅 [**1-appointment-agent**](https://github.com/leonobitech/backend/tree/main/repositories/agents/leonobitech/1-appointment-agent) | Python | Appointment booking AI agent |
+| 🧩 [**odoo-mcp**](https://github.com/leonobitech/backend/tree/main/repositories/odoo-mcp) | TypeScript | Custom MCP server for Odoo (appointments + billing) |
+| 📊 [**odoo**](https://github.com/leonobitech/backend/tree/main/repositories/odoo) | Python | Odoo 19 ERP configuration |
+
+**🛠️ Supporting infra**
+
+| Service | Stack | Role |
+|---------|-------|------|
+| 🔀 [**n8n**](https://github.com/leonobitech/backend/tree/main/repositories/n8n) | Docker | Workflow orchestration (1,084 nodes) |
+| 🗄️ [**baserow**](https://github.com/leonobitech/backend/tree/main/repositories/baserow) | Docker | No-code database backend (8 tables) |
+| 💾 [**redis**](https://github.com/leonobitech/backend/tree/main/repositories/redis) | Docker | Cache & queue backend |
+| 📲 [**wa-signature-proxy**](https://github.com/leonobitech/backend/tree/main/repositories/wa-signature-proxy) | Node | WhatsApp webhook signature verification proxy |
 
 #### AI / MCP / Automation — The intelligence layer
 
@@ -119,6 +167,17 @@ I work across the stack — **Rust** for embedded + backend (ESP32-C3, Axum, Tok
 My biggest recent bet: launching **[Leonobitech](https://www.leonobitech.com/)**, shipping **production AI automation for SMB clients in LATAM**. [Details in the production section above ↑](#-production--ai-systems--live-at-leonobitech)
 
 ## Tech Stack
+
+**AI / LLM / Automation**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge)
+![LiveKit](https://img.shields.io/badge/LiveKit-00C3B5?style=for-the-badge&logo=livekit&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_(RAG)-DC244C?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Languages & Core**
 
